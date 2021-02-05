@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Development\\4th Year\\4TH YEAR PROJECT\\App\\MobileTriboreHealth\\build\\android_intent\\intermediates\\res\\merged\\debug\\values-el\\values-el.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ian Kiragu\\.gradle\\caches\\transforms-2\\files-2.1\\bdd9a0d6c44656d393704bb0082bebf1\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Development\\4th Year\\4TH YEAR PROJECT\\App\\MobileTriboreHealth\\build\\android_intent\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-el\\values-el.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ian Kiragu\\.gradle\\caches\\transforms-2\\files-2.1\\bdd9a0d6c44656d393704bb0082bebf1\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
